@@ -1,5 +1,6 @@
- These lists were created using the word lists provided by Leipzig Corpora Collection. 
- Languages availalbe:
+ These lists were created using the word lists provided by Leipzig Corpora Collection.
+ 
+ Languages available:
  - croatian
  - czech
  - danish
