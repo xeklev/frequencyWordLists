@@ -19,5 +19,5 @@
  - slovak
  - swedish
 
- For detailed and comprehensive word lists, check their website. They have a lot more languages available.
+ For detailed and comprehensive word lists, check their website. They have a lot more wordlists in many languages uploaded there.
  https://wortschatz.uni-leipzig.de/en/download/
